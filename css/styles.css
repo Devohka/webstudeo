@@ -1,0 +1,107 @@
+body {
+    font-family: "Roboto";
+}
+
+footer {
+    color: #FFFFFF;
+    background-color: #2F303A;
+}
+
+h1 {
+    margin: 100px 50px 10px 350px;
+    color: white; 
+    font-size: 44px;
+    font-weight: 900;
+}
+
+section {
+    /* background-color: #2F303A; */
+    background-image: 
+    url("/imeges/Img\ Overlay.png");
+}
+
+.conteiner {
+    display: flex;
+
+    align-content: center;
+}
+
+.nav-list {
+    display: flex;
+}
+
+h4 {
+    margin: 0;
+    padding: 0;
+    font-size: 26px;
+    font-weight: 700;
+}
+
+button {
+    margin: 10px 300px 100px 550px;
+    color: white;
+    background-color: #2196F3;
+    width: 152px;
+     height: 30px;
+     font-size: 16px;
+     font-weight: 700;
+}
+
+.title {
+    background-color: #F5F4FA;
+}
+
+a {
+    color: black;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+
+li {
+    margin-right: 10px;
+    list-style: none;
+}
+
+.item {
+    margin-right: 50px;
+}
+
+.list {
+    display: flex;
+}
+
+.list-item {
+    margin-right: 100px;
+    width: 250px;
+}
+
+h2 {
+margin: 40px 550px;
+font-size: 36px;
+font-weight: 700;
+}
+
+.title3 {
+    color: blue;
+    margin: 18px 10px 10px 30px;
+    font-size: 26px;
+    font-weight:  700;
+}
+
+.title2 {
+    color: black;
+    margin-right: 10px;
+    font-size: 26px;
+    font-weight: 700;
+}
+
+p {
+    font-size: 14px;
+    font-weight: 400;
+}
+
+h3 {
+    font-size: 14px;
+    font-weight: 700;
+}
